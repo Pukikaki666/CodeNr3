@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\pupil.F245-LAB\source\repos\Code3\main.c(14,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Code3.vcxproj -> C:\Users\pupil.F245-LAB\source\repos\Code3\x64\Debug\Code3.exe
